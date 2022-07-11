@@ -1,3 +1,3 @@
 Title : Title is Title
 
-This is content for git. I'm learning about git from nico. Nico is best teacher i ever met.
+This is content for git. I'm learning about git from paco. Nico is best teacher i ever met.
